@@ -24,8 +24,8 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-### DEVELOPED BY: Jeevan E S
-### REGISTER NO: 212223230091
+### DEVELOPED BY: RICHARDSON A
+### REGISTER NO: 212222233005
 
 ```python
 import pandas as pd
